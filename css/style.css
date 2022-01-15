@@ -1,0 +1,14 @@
+#tiktok {
+    background-color: black;
+    color: white;
+}
+
+#tiktok:hover {
+    background-color: rgb(27, 24, 24);
+    color: white;
+}
+
+#telegram {
+    background-color: dodgerblue;
+    color: white;
+}
